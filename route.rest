@@ -10,8 +10,9 @@ POST http://localhost:3000/subscribers
 Content-Type: application/json
 
 {
-    "name":"ssssaslkahsdklasa",
-    "email":"Ssimplified@gmail.com",
-    "password":"9847s98234789s3"
+    "name":"lssssawxw",
+    "email":"isfdxwwisss@gmail.com",
+    "password":"ysxrwwsssqiwsssssss"
+    
 
 }
